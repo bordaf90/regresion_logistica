@@ -1,1 +1,1 @@
-# regresion_logistica
+# Modelo de Regresión Logística para variables categóricas.
